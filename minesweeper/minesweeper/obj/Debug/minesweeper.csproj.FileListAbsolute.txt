@@ -1,0 +1,9 @@
+C:\Users\Student\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+C:\Users\Student\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+C:\Users\Student\source\repos\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+C:\Users\Student\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+C:\Users\Student\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+C:\Users\Student\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
+C:\Users\Student\source\repos\minesweeper\minesweeper\obj\Debug\minesweeper.Field.resources
